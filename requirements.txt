@@ -1,0 +1,4 @@
+Fabric==1.13.2
+PyYAML==3.12
+requests==2.18.3
+urllib3==1.22

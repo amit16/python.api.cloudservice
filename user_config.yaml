@@ -1,0 +1,7 @@
+account_info:
+ username         : "abc"
+ password         : "pdb"
+datacenter:
+ name             : "ProfitBricksTestDC"
+ description      : "DC to Perform QA Test"
+ location         : "de/fra"
